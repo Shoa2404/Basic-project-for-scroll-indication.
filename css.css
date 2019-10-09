@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Asap+Condensed&display=swap');
+
+body {
+    font-family: 'Asap Condensed', sans-serif;
+    background-color:#80eb34;
+}
+
+h1,sup{
+    color:#eb4034;
+}
+
